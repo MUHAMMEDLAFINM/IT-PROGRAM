@@ -1,0 +1,16 @@
+<html>
+<head>
+</head>
+<body>
+<p style="font-style:italic;">
+it will be italic</P>
+<p style='font-family: " Times New Roman", Times, serif;'>
+either georgia,garamond,or default serif font depending on your system.</p>
+<p style="font-size:20px;">size is 20px</p>
+<p style="font-size:small;">size is small</p>
+<p style="font-size:large;">size is large</p>
+<p style="font-weight:500;">weight is 500.</p>
+<p style="font-weight:bolder;">font is bolder</p>
+<p style=
+"font-stretch:normal/wider/expanded/ultra-expanded;">
+if this doesn't appear to work</p>
